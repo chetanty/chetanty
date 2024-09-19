@@ -1,4 +1,4 @@
-### Working hard on [Lost Locale](https://www.lostlocale.com/).
+### Done with [Lost Locale](https://www.lostlocale.com/), for now.
 
 <!--
 **chetanty/chetanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
