@@ -1,8 +1,6 @@
 ### Done with [Lost Locale](https://www.lostlocale.com/), for now.
 
-### Check out my portfolio [here](https://chetantyagi.com/).
-
-### And my LinkedIn [here](linkedin.com/in/chetantyagi06/).
+### Check out my [portfolio](https://chetantyagi.com/) and my [LinkedIn](linkedin.com/in/chetantyagi06/).
 
 <!--
 **chetanty/chetanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
