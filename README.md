@@ -1,4 +1,4 @@
-### Done with [Lost Locale](https://www.lostlocale.com/), for now.
+### Back on [Lost Locale](https://www.lostlocale.com/).
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/) profile.
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
