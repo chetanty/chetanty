@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img src="https://stats-54r4.vercel.app/api?username=chetanty&show_icons=true&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" alt="chetanty GitHub Stats" height="250px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chetanty&theme=transparent" alt="GitHub Streak Stats" height="250px"/>
+  <img src="https://stats-54r4.vercel.app/api?username=chetanty&show_icons=true&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" alt="chetanty GitHub Stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chetanty&theme=transparent&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" alt="GitHub Streak Stats" height="180px"/>
 </div>
 
 
