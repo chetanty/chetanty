@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent">
   <img height=200 align="center" src="https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent" />
 </a>
+[![GitHub Stats](https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent)](https://github.com/chetanty)
