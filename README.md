@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent" />
+</a>
