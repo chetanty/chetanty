@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<img src="https://stats-54r4.vercel.app/api?username=chetanty&show_icons=true" alt="chetanty GitHub Stats" height="150px"/>
+<img src="https://stats-54r4.vercel.app/api?username=chetanty&show_icons=true&title_color=434d58&icon_color=434d58&text_color=434d58&bg_color=ffc30b" alt="chetanty GitHub Stats" height="150px"/>
 </div>
