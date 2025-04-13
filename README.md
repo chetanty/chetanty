@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent">
   <img height=200 align="center" src="https://stats-54r4.vercel.app/api?show_icons=true&username=chetanty&theme=transparent" />
 </a>
