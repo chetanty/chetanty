@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
+<div >
     <img src="https://stats-54r4.vercel.app/api?username=chetanty&show_icons=true&theme=transparent" alt="chetanty GitHub Stats" height="150px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chetanty&theme=transparent" alt="GitHub Streak Stats" height="150px"/>
 </div>
