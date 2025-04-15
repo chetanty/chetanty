@@ -14,7 +14,7 @@ hi
     alt="GitHub Stats" 
     style="height: 200px; border-radius: 10px;"
   />
-  <a href="https://playlostlocale.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://lostlocale.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="lostlocalepromo.gif" 
       alt="playlostlocale" 
@@ -22,3 +22,4 @@ hi
     />
   </a>
 </div>
+<hr>
