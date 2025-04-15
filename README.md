@@ -8,7 +8,6 @@ hi
 -->
 
 <hr>
-
 <div style="display: flex; align-items: center; gap: 10px;">
   <img 
     src="https://hehe-ten-olive.vercel.app/api?username=chetanty&show_icons=true&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" 
@@ -19,7 +18,7 @@ hi
     <img 
       src="lostlocalepromo.gif" 
       alt="playlostlocale" 
-      style="height: 200px; border-radius: 10px; cursor: pointer;"
+      style="height: 200px; width: 300px; border-radius: 10px; cursor: pointer;"
     />
   </a>
 </div>
