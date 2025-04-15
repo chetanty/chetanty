@@ -14,11 +14,13 @@ hi
     alt="GitHub Stats" 
     style="height: 200px; border-radius: 10px;"
   />
-  <img 
-    src="lostlocalepromo.gif" 
-    alt="playlostlocale" 
-    style="height: 200px; border-radius: 10px;"
-  />
+  <a href="https://lostlocale.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="lostlocalepromo.gif" 
+      alt="playlostlocale" 
+      style="height: 200px; border-radius: 10px; cursor: pointer;"
+    />
+  </a>
 </div>
 
 
