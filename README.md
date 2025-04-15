@@ -18,7 +18,7 @@ hi
     <img 
       src="lostlocalepromo.gif" 
       alt="playlostlocale" 
-      style="height: 200px; width: 300px; border-radius: 10px; cursor: pointer;"
+      style="height: 200px; width: 600px; border-radius: 10px; cursor: pointer;"
     />
   </a>
 </div>
