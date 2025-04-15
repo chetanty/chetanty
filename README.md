@@ -8,7 +8,7 @@ hi
 -->
 
 <hr>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px;">
   <img 
     src="https://hehe-ten-olive.vercel.app/api?username=chetanty&show_icons=true&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" 
     alt="GitHub Stats" 
