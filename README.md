@@ -12,13 +12,13 @@ hi
   <img 
     src="https://hehe-ten-olive.vercel.app/api?username=chetanty&show_icons=true&title_color=ffc30b&icon_color=ffc30b&text_color=ffc30b&bg_color=2c2c2c" 
     alt="GitHub Stats" 
-    style="height: 150px; border-radius: 10px;"
+    style="height: 200px; border-radius: 10px;"
   />
   <a href="https://lostlocale.com" target="_blank" rel="noopener noreferrer">
     <img 
       src="lostlocalepromo.gif" 
       alt="playlostlocale" 
-      style="height: 150px; border-radius: 10px; cursor: pointer;"
+      style="height: 200px; border-radius: 10px; cursor: pointer;"
     />
   </a>
 </div>
