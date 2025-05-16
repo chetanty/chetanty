@@ -1,4 +1,4 @@
-### Back on [Lost Locale](https://www.lostlocale.com/).
+### Trying to make [Lost Locale](https://www.lostlocale.com/) famous.
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/) profile.
 
