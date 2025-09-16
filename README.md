@@ -1,4 +1,6 @@
-### Done with [Lost Locale](https://www.lostlocale.com/). Working on a new, bigger and cooler thing. Should be out by this year.
+### Done with [Lost Locale](https://www.lostlocale.com/). 
+
+### Working on a new, bigger, cooler thing. Should be out by this year.
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/).
 
