@@ -2,7 +2,7 @@
 
 ### Working on a new, bigger, cooler thing. Should be out by this year.
 
-### Interned at Amazon Web Services' Fintech org in the summer of 2025.
+### Interned at Amazon Web Services' Fintech org in the summer of 25 and will return in the summer of 26.
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/).
 
