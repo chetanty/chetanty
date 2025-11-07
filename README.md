@@ -6,7 +6,6 @@
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/).
 
-### Connect on Discord: `dukemnukem`
 <!--
 hi
 
