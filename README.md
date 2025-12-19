@@ -1,6 +1,6 @@
 ### Done with [Lost Locale](https://www.lostlocale.com/). 
 
-### Working on a new, bigger, cooler thing. Should be out by this year.
+### Working on a new, bigger, cooler project.
 
 ### Interned at Amazon Web Services' Fintech org in the summer of 25 and will return in the summer of 26.
 
