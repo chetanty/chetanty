@@ -6,6 +6,8 @@
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/).
 
+### FIDE [1426](https://ratings.fide.com/profile/25786784)
+
 <!--
 hi
 
