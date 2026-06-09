@@ -1,6 +1,6 @@
-### Working on a new, bigger, cooler project.
+### Working on a cool and my biggest project yet.
 
-### Interned at Amazon Web Services' Fintech org in the summer of 25 and 26.
+### Intern at Amazon Web Services' Fintech org in the summer of 25 and 26.
 
 ### Check out my [website](https://chetantyagi.com/) and [linkedin](https://www.linkedin.com/in/chetantyagi06/).
 
