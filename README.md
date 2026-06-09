@@ -1,5 +1,3 @@
-### Done with [Lost Locale](https://www.lostlocale.com/). 
-
 ### Working on a new, bigger, cooler project.
 
 ### Interned at Amazon Web Services' Fintech org in the summer of 25 and 26.
